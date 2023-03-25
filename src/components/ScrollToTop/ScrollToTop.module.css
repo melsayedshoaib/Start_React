@@ -1,0 +1,16 @@
+.scrollBtn {
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.28);
+    z-index: 999999;
+    right: 15px;
+    bottom: 10px;
+    width: 2.5rem;
+    height: 2.5rem;
+    border: none;
+    outline: none;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 10px;
+}
